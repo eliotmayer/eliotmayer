@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eliot Mayer, Belmont, MA, USA, @eliotmayer
 - 👀 I’m interested in Python, HTML/CSS, and VBA for Excel & Word (when necessary)
-- 🌱 I’m currently learning HTML5/CSS3 with this excellent online course:  https://codewithmosh.com/p/the-ultimate-html-css
-- 💞️ I’m using my new web design skills for an extreme makeover of my antiquated web site, http://w1mj.com.
+- 🌱 I took an excellent HTML5/CSS3 online course:  https://codewithmosh.com/p/the-ultimate-html-css
+- 💞️ I used my new web design skills for an extreme makeover of my antiquated web site, http://w1mj.com.
 - 📫 eliotmayer@yahoo.com
 
 <!---
